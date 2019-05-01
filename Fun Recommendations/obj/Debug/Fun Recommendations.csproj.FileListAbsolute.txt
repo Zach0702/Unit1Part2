@@ -1,0 +1,7 @@
+C:\Users\Zach\source\repos\Fun Recommendations\Fun Recommendations\bin\Debug\Fun Recommendations.exe.config
+C:\Users\Zach\source\repos\Fun Recommendations\Fun Recommendations\bin\Debug\Fun Recommendations.exe
+C:\Users\Zach\source\repos\Fun Recommendations\Fun Recommendations\bin\Debug\Fun Recommendations.pdb
+C:\Users\Zach\source\repos\Fun Recommendations\Fun Recommendations\obj\Debug\Fun Recommendations.csprojAssemblyReference.cache
+C:\Users\Zach\source\repos\Fun Recommendations\Fun Recommendations\obj\Debug\Fun Recommendations.csproj.CoreCompileInputs.cache
+C:\Users\Zach\source\repos\Fun Recommendations\Fun Recommendations\obj\Debug\Fun Recommendations.exe
+C:\Users\Zach\source\repos\Fun Recommendations\Fun Recommendations\obj\Debug\Fun Recommendations.pdb
